@@ -1,0 +1,21 @@
+body{
+    background-color: #222;
+    color: #fff;
+    font-weight: 400;
+    font-size: 2vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'khula',sans-serif;
+    box-sizing: border-box;
+    height: 100vh;
+    letter-spacing: 6px;
+    margin: 0;
+    line-height: 1.2;
+}
+
+span{
+    display: inline-block;
+}
